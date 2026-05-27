@@ -33,7 +33,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 **Fecha** : 27/05/2026
 
 
-![img](WalkingGirl_front01.png)
+![img](ranaoriginal.png)
 
 # 2. Memoria del proyecto 
 
