@@ -16,7 +16,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
  [Profile Card](cmi-card.html)  [Alternate Profile Card](cmi-card2.html)
 
-**Resumen** : Este juego trata de una rana que va en busca de su comida favorita y para lograrlo tiene que ir saltando hijas y capturar las moscas.
+**Resumen** : Este juego trata de una rana que va en busca de su comida favorita y para lograrlo tiene que ir saltando hojas y capturar las moscas.
 
 **Estilo/género:**  Juego 
 
@@ -24,21 +24,15 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 (insertar imágenes a resolucion de 100px alto)
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Resolución:** 1152x648
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**   Opera GX
 
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** 1,63 GB
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
-
-**Medios** (donde se tiene presencia relacionada):
-
-- Github:
-- Twitter
-- Instagram
+**Fecha** : 27/05/2026
 
 
 ![img](WalkingGirl_front01.png)
@@ -46,20 +40,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
-
-
-
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
-
-
-
-### 2.2. Esquema de navegación 
-
-
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
-
-
+Quise hacer un estilo Mario Bros o Hollow Night pero esta vez creando mi propio mundo y personaje. Mi personaje que es una rana, solo va saltando y atrapando moscas. Solo añadí 3 niveles.
 
 
 
@@ -75,14 +56,14 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
+- Hollow Night
+- Mario Bros
 
 
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Este  proyecto es interesante porque es una rana feliz con sombrero de bruja buscando comida para sobrebivir.
 
 
 
@@ -95,26 +76,28 @@ Este  proyecto es interesante porque ...
 
 
 ## Etapa 2: Desarrollo / actividades realizadas
+Hice un menu principal que va acompañado con una animacion tanto de la rana como el fondo.
+Tambien contiene un portfolio de todos los elementos o imagenes que he diseñado y utilizado en el juego.
+El boton de start que te lleva directamente a la partida.
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
+
 
 - Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
+- Instrucciones y ayuda al usuario: usar solo los comandos.
+- Menús y elementos de navegación (a,w,s,d,esc,espacio)
 
 
 
 ## Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+El sonido cuando capturas la mosca.
+Los botones del menu pausa.
 
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
+Es verdad que me he exforzado en hacer el diseño, crear el script para crear vida al juego y otros elementos que es verdad que ha tenido dificultad. Por eso me falto algunos elementos por mejorar. En mi opinion me merezco un 7,75.
 
 
 
@@ -125,14 +108,13 @@ Este  proyecto es interesante porque ...
 # 5 Referencias 
 
 **Artículos y blogs** 
-
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
+Me he guiado por otros videojuegos como mencione anteriormente.
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía: 
+* Musica:  Sacado de Pixabay
+* Imágenes: Creadas en Procreate 
+* Tipografía: Sacado de una web de tipografia y creado en Procreate.
 
 **Herramientas utilizadas**
 
