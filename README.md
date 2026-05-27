@@ -1,4 +1,4 @@
-## (Nombre del proyecto)
+JUMPING FROG
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
@@ -8,7 +8,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : Jumping Frog
 
 **Web:**   (url github.io)
 
