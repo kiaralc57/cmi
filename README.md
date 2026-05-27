@@ -41,7 +41,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 Quise hacer un estilo Mario Bros o Hollow Night pero esta vez creando mi propio mundo y personaje. Mi personaje que es una rana, solo va saltando y atrapando moscas. Solo añadí 3 niveles.
 
 
-
+![img](storyboard.jpg).
 
 
 # 3. Metodología
