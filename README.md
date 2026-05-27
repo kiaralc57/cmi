@@ -30,8 +30,6 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Tamaño proyecto:** 1,63 GB
 
-**Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
-
 **Fecha** : 27/05/2026
 
 
@@ -119,7 +117,7 @@ Me he guiado por otros videojuegos como mencione anteriormente.
 **Herramientas utilizadas**
 
 - Godot Engine 4.x
-- 
+
 
 (imagen de la licencia, copiar y pegar aquí la correcta)
 https://creativecommons.org/licenses/?lang=es
