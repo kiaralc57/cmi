@@ -10,13 +10,13 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : Jumping Frog
 
-**Web:**   (url github.io)
+**Web:**   https://kiaralc57.itch.io/jumping-frog
 
 **Autor:**  Kiara Licari Castelar
 
  [Profile Card](cmi-card.html)  [Alternate Profile Card](cmi-card2.html)
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : Este juego trata de una rana que va en busca de su comida favorita y para lograrlo tiene que ir saltando hijas y capturar las moscas.
 
 **Estilo/género:**  Juego 
 
@@ -88,7 +88,7 @@ Este  proyecto es interesante porque ...
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a futuros alumpos que van a cursar el segundo año.
 
 
 
