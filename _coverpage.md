@@ -14,7 +14,7 @@
 
 ### Proyecto realizado por:
 
-### Enlace a Itch.io: ____________
+### Enlace a Itch.io:  https://kiaralc57.itch.io/jumping-frog
 
 #### Facultad de Bellas Artes. Universidad de Granada, 202X
 
