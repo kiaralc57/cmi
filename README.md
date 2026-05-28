@@ -91,17 +91,13 @@ Los botones del menu pausa.
 
 # 4. Conclusiones 
 
-Es verdad que me he exforzado en hacer el diseño, crear el script para crear vida al juego y otros elementos que es verdad que ha tenido dificultad. Por eso me falto algunos elementos por mejorar. En mi opinion me merezco un 7,75.
-
-
-
-
-
+Es verdad que me he exforzado en hacer el diseño, crear el script para crear vida al juego y otros elementos que es verdad que ha tenido dificultad. Por eso me falto algunos elementos por mejorar.
 
 
 # 5 Referencias 
 
 ![img](mariobros.webp).
+![img](hollow.webp).
 
 **Artículos y blogs** 
 Me he guiado por otros videojuegos como mencione anteriormente.
