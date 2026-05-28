@@ -101,6 +101,8 @@ Es verdad que me he exforzado en hacer el diseño, crear el script para crear vi
 
 # 5 Referencias 
 
+![img](mariobros.webp).
+
 **Artículos y blogs** 
 Me he guiado por otros videojuegos como mencione anteriormente.
 
